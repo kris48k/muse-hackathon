@@ -1,0 +1,1 @@
+This is a project for [Meta Global AI Developer Hackathon](https://cerebralvalley.ai/e/meta-ai-developer-hackathon)
